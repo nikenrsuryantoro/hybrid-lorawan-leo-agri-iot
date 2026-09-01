@@ -3,7 +3,7 @@
 Simulation code for the paper:
 
 **"Techno-Economic Analysis of Terrestrial and Non-Terrestrial Networks for Disaster-Resilient Agri-IoT Systems"**  
-Niken Suryantoro — MSc Telecommunications, University College London (UCL), 2026
+Niken Suryantoro, MSc Telecommunications, University College London (UCL), 2026
 
 ## Overview
 
